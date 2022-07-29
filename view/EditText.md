@@ -40,5 +40,5 @@ editText.setInputType(InputType.TYPE_NULL)
 | InputType.TYPE_TEXT_VARIATION_URI | 输入对用户可见的密码 |
 | InputType.TYPE_TEXT_VARIATION_VISIBLE_PASSWORD | 输入URI |
 | InputType.TYPE_TEXT_VARIATION_WEB_EDIT_TEXT | 输入网页表单中的文本 |
-| InputType.TYPE_TEXT_VARIATION_WEB_EMAIL_ADDRESS输入网页表单中的邮件地址 |  |
+| InputType.TYPE_TEXT_VARIATION_WEB_EMAIL_ADDRESS | 输入网页表单中的邮件地址 |
 | InputType.TYPE_TEXT_VARIATION_WEB_PASSWORD | 输入网页表单中的密码 |
